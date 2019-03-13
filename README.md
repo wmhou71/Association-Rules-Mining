@@ -5,3 +5,6 @@ Given a input DB, mine strong association rules from the input DB with user-defi
 Course name: Data Mining and Social Network Analysis
 Student's Name: Wei-Ming HOU
 Programming Language: Python
+
+學生
+專案
