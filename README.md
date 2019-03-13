@@ -6,5 +6,3 @@ Course name: Data Mining and Social Network Analysis
 Student's Name: Wei-Ming HOU
 Programming Language: Python
 
-學生
-專案
